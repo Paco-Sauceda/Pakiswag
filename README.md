@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pakiswag
+- 👋 Hi, I’m 
 - 👀 I’m interested in learning more in programing, I also love photography and videography
 - 🌱 I’m currently learning python and trying to use logic when programing
 - 💞️ I’m looking to collaborate on anywhere 
